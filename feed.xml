@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-17T16:24:15-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Escritor de Fora</title><subtitle>Blog com textos aleatórios.</subtitle><entry><title type="html">A língua portuguesa e o isolamento do Brasil</title><link href="http://localhost:4000/coronav%C3%ADrus,/c%C3%A2mbio/2020/05/17/a-lingua-portuguesa-e-o-isolamento-do-brasil.html" rel="alternate" type="text/html" title="A língua portuguesa e o isolamento do Brasil" /><published>2020-05-17T14:59:15-04:00</published><updated>2020-05-17T14:59:15-04:00</updated><id>http://localhost:4000/coronav%C3%ADrus,/c%C3%A2mbio/2020/05/17/a-lingua-portuguesa-e-o-isolamento-do-brasil</id><content type="html" xml:base="http://localhost:4000/coronav%C3%ADrus,/c%C3%A2mbio/2020/05/17/a-lingua-portuguesa-e-o-isolamento-do-brasil.html">&lt;p&gt;Conversando com uma turista estrangeira que visitou o Brasil, ela comentou o quanto era curioso não escutar e ler nenhuma outra língua diferente do português durante sua visita. Ela esperava escutar um pouco de espanhol devido a proximidade geográfica com tantos países que falam esse idioma. Conversando com amigos colombianos, argentinos e mexicanos notei algo distinto, eles sabem muito mais sobre o que está acontecendo nos países vizinhos que falam espanhol do que nós brasileiros sabemos sobre esses mesmos vizinhos. Os latino-americanos de língua espanhola também parecem mais informados da vida cultural e política espanhola comparados aos brasileiros em relação aos acontecimentos em Portugal. Acredito que essa bolha linguística e esse laço tão pequeno com Portugal explicam um pouco o que está acontecendo no Brasil nesse momento de crise na saúde e economia.&lt;/p&gt;
+
+&lt;p&gt;Sabemos que a Espanha foi um dos países mais atingidos pelo coronavírus e os espanhóis foram surpreendidos e parecem só agora se recuperar lentamente. As notícias vindas da Espanha chegaram rapidamente na América do Sul e as ex-colônias espanholas tiveram algumas semanas preciosas para agir e proteger sua população. É o que mostra o primeiro gráfico que detalha a evolução do número de mortes por milhão de habitantes. Enquanto a Espanha apresenta um número altíssimo de mortes, Chile, Argentina e Colômbia parecem estar até o momento protegidos do pior. Olhando para a dupla Brasil/Portugal, o que acontece é o contrário, enquanto Portugal consegue manter um número diário de mortes baixo, o Brasil deve logo passar o número de mortes diárias por habitante da Espanha.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mortes_diarias_por_milhao_brasil_espanha_etc_coronavirus.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A gravidade da crise espanhola e o maior acesso aos veículos de mídia da Espanha resultou que chilenos, colombianos e argentinos agissem mais rápido? Por que não aprendemos com os acertos portugueses?
+Uma crítica que se pode fazer a esse gráfico é que a pirâmide etária espanhola é diferente da colombiana, chilena e argentina (e brasileira). Que se a população espanhola fosse tão jovem como a latino-americana, os números seriam mais próximos. Para verificar essa hipótese, recalculei o número de mortes por milhão como se todos os países analisados tivessem a mesma pirâmide etária que a brasileira. A Espanha, por exemplo, manteria a mesma população, mas com mais jovens em relação a sua população atual. Vemos que após a essa correção, o número de mortes diárias português e espanhol seriam reduzidos por volta de um fator 3, insuficiente para explicar a diferença entre Espanha e suas ex-colônias.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mortes_diarias_por_milhao_brasil_espanha_etc_coronavirus_ajustados_pop_brasil.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Considerando esse ajuste, a situação brasileira parece ainda mais extrema! O número de mortes continua subindo e pode alcançar números similares a um país que foi pego de surpresa. Além disso, se compararmos aos nossos vizinhos, a nossa situação parece ainda pior. Podemos fazer esse mesmo exercício ao olhar a situação cambial desses países.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/variacao_cambial_usd_vs_brl_eur_etc.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Como nossos vizinhos, a situação de incerteza fez que a população local buscasse refúgio em moedas estrangeiras (dólar e euro). Além disso os investidores estrangeiros retiraram investimentos dos países emergentes resultando em desvalorização das moedas. Alguns dizem que a situação do Brasil é similar aos países vizinhos e que não havia nada a ser feito. O que vemos é que não só nossa moeda desvalorizou, como foi a que mais desvalorizou comparada a nossos vizinhos, mostrando fragilidade sanitária e econômica.
+Deveria ser a hora de olhar para os nossos vizinhos e trocar informações sobre como melhor lidar com a situação. É importante sempre estar se comparando com pessoas e países em situação semelhante. Acho que a barreira linguística explica um pouco, mas não tudo, e sabemos que o português e o espanhol são muito parecidos. Quando visitei a França, sempre via na televisão e nas conversas de bar comparações com a Alemanha e Inglaterra que furavam a barreira linguística. Uma maior abertura do Brasil ajudaria a nos comparar com nossos vizinhos para pegar o que funciona melhor em outros países. Perguntaríamos: Quanto o peso chileno desvalorizou em 2020 frente ao dólar em comparação ao real? Quantos ministros da saúde os paraguaios trocaram esse ano? Como os portugueses estão lidando com a pandemia? Como está funcionando a legalização da maconha no Uruguai? Como a Argentina julga os crimes cometidos durante a ditadura? Como o presidente chileno trata a imprensa? Qual a expectativa de vida na Argentina?&lt;/p&gt;
+
+&lt;p&gt;Quem sabe aí cobraríamos um país melhor…&lt;/p&gt;
+
+&lt;p&gt;Referências&lt;/p&gt;
+
+&lt;p&gt;[1] Número de mortos diário por país: EU Open Data Portal (&lt;a href=&quot;https://opendata.ecdc.europa.eu/covid19/casedistribution/csv&quot;&gt;arquivo CSV&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;[2] População por país: World bank(&lt;a href=&quot;https://data.worldbank.org/indicator/SP.POP.TOTL&quot;&gt;arquivo CSV&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;[3] Cotação diária de fechamento em relação ao dólar: Yahoo finance. Dados normalizados a 100 equivalente ao valor de fechamento em 1/1/2020, 150 representa 50% mais em moeda local para comprar a mesma quantidade em dólar (1USD passar de 4BRL a 6BRL)&lt;/p&gt;
+
+&lt;p&gt;[4] Taxa de fatalidade por infectado por faixa etária: Artigo publicado na Science “Estimating the burden of SARS-CoV-2 in France”(&lt;a href=&quot;https://science.sciencemag.org/content/sci/suppl/2020/05/12/science.abc3517.DC1/abc3517_Salje_SM.pdf&quot;&gt;arquivo PDF material suplementar&lt;/a&gt;), planilha S10 penúltima coluna. Valor absoluto não é importante, sim saber que faixa etária 80+ tem 5x mais chance de morrer que 70-79, 10x mais que 60-69, etc.&lt;/p&gt;
+
+&lt;p&gt;[5] Pirâmide etária por país: &lt;a href=&quot;https://www.populationpyramid.net&quot;&gt;site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6] Exemplo de cálculo de ajuste Brasil/Espanha&lt;/p&gt;
+
+&lt;p&gt;Distribuição etária: [&amp;lt;20,20-29,30-29,40-49,50-59,60,69,70-79,&amp;gt;80]&lt;/p&gt;
+
+&lt;p&gt;Pirämide Brasil: PB = [0.288 0.161 0.163 0.136 0.113 0.077 0.039 0.018]&lt;/p&gt;
+
+&lt;p&gt;Pirâmide Espanha: PE = [0.193 0.099 0.131 0.169 0.148 0.111 0.083 0.062]&lt;/p&gt;
+
+&lt;p&gt;Fatalidade por infectado: IFR = [0.001 0.007 0.02 0.06 0.2 0.9 2.3 10.3]/100&lt;/p&gt;
+
+&lt;p&gt;Mortos por infectado Brasil = sum(PB*IFR) = 0.0039 = 0.39%&lt;/p&gt;
+
+&lt;p&gt;Mortos por infectado ES = sum(PE*IFR) = 0.0097 = 0.97%&lt;/p&gt;
+
+&lt;p&gt;Fator de redução de mortes na Espanha se tivesse a mesma quantidade de casos, mas com pirâmide etária brasileira: sum(PE&lt;em&gt;IFR)/sum(PB&lt;/em&gt;IFR) = 2.49&lt;/p&gt;</content><author><name></name></author><summary type="html">Conversando com uma turista estrangeira que visitou o Brasil, ela comentou o quanto era curioso não escutar e ler nenhuma outra língua diferente do português durante sua visita. Ela esperava escutar um pouco de espanhol devido a proximidade geográfica com tantos países que falam esse idioma. Conversando com amigos colombianos, argentinos e mexicanos notei algo distinto, eles sabem muito mais sobre o que está acontecendo nos países vizinhos que falam espanhol do que nós brasileiros sabemos sobre esses mesmos vizinhos. Os latino-americanos de língua espanhola também parecem mais informados da vida cultural e política espanhola comparados aos brasileiros em relação aos acontecimentos em Portugal. Acredito que essa bolha linguística e esse laço tão pequeno com Portugal explicam um pouco o que está acontecendo no Brasil nesse momento de crise na saúde e economia.</summary></entry></feed>
